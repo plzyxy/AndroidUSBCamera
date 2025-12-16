@@ -2,11 +2,12 @@
 
 
 转过来  自己编译   基于3.3.3
-	implementation files('libs/libausbc-3.3.3.aar')   拉下来编译的
-    implementation files('libs/libnative-3.2.9.aar')  原有
-    implementation files('libs/libuvc-3.2.9.aar')  原有
-    implementation files('libs/libutils-3.2.9.aar')  原有
-	implementation files('libs/libuvccommon-3.2.9.aar')   拉下来编译的
+-------
+	- implementation files('libs/libausbc-3.3.3.aar')   拉下来编译的
+    - implementation files('libs/libnative-3.2.9.aar')  原有
+    - implementation files('libs/libuvc-3.2.9.aar')  原有
+    - implementation files('libs/libutils-3.2.9.aar')  原有
+	- implementation files('libs/libuvccommon-3.2.9.aar')   拉下来编译的
 
 # AUSBC&ensp;[![](https://jitpack.io/v/jiangdongguo/AndroidUSBCamera.svg)](https://jitpack.io/#jiangdongguo/AndroidUSBCamera) [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
